@@ -3,12 +3,12 @@
 
 
 
-### Input  
+## Input  
 Text data containing toxic comments (abusive), where different classes of "toxicity" have been labelled<br>
 This is a multi-label task with input records belonging to one, multiple, or zero classes
 
-### Output  
+## Output
 Probability of observation belonging to each class
 
-### Evaluation
+## Evaluation
 As observations can have multiple labels, Log-loss is calculated for each class, and then averaged across all classes
