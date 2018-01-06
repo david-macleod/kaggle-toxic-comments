@@ -4,7 +4,7 @@
 
 
 ### Input  
-Text data containing toxic comments, where different classes of "toxicity" have been labelled 
+Text data containing toxic comments, where different classes of "toxicity" have been labelled<br>
 This is a multi-label task with input records belonging to one, multiple, or zero classes
 
 ### Output  
